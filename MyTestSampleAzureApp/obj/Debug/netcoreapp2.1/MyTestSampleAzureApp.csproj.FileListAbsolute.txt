@@ -30,3 +30,4 @@ D:\MyTestSampleAzureApp\MyTestSampleAzureApp\obj\Debug\netcoreapp2.1\MyTestSampl
 D:\MyTestSampleAzureApp\MyTestSampleAzureApp\obj\Debug\netcoreapp2.1\MyTestSampleAzureApp.pdb
 D:\MyTestSampleAzureApp\MyTestSampleAzureApp\obj\Debug\netcoreapp2.1\MyTestSampleAzureApp.csproj.CopyComplete
 D:\MyTestSampleAzureApp\MyTestSampleAzureApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\MyTestSampleAzureApp\MyTestSampleAzureApp\obj\Debug\netcoreapp2.1\MyTestSampleAzureApp.csprojAssemblyReference.cache
